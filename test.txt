@@ -3,3 +3,4 @@ Lorem ipsum jne jne jne
 LNK BLZ BDB HGS RMWE
 
 #1 SNK
+#2 SC
