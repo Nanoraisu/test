@@ -1,2 +1,2 @@
-echo "tämä on työkalujen toinen osa" >> tools.txt
+echo "tämä on työkalujen toinen osa" >> tools.txt 1234567890
 #Tänne eri työkalutiedot
