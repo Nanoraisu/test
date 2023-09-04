@@ -1,2 +1,2 @@
 echo "tämä on työkalujen toinen osa" >> tools.txt
-tämä on työkalujen toinen osa
+#Tänne eri työkalutiedot
